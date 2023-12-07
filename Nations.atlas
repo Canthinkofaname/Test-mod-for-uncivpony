@@ -1,0 +1,82 @@
+Nations.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Equestria
+rotate: false 
+xy: 10, 10
+size: 80, 80
+orig: 100, 100
+offset: 0, 0 
+index: -1
+NationIcons/Lunar Republic
+rotate: false 
+xy: 100, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0 
+index: -1
+NationIcons/Appleloosa
+rotate: false 
+xy: 200, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0 
+index: -1
+NationIcons/Changeling Lands
+rotate: false 
+xy: 300, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0 
+index: -1
+NationIcons/Stalliongrad
+rotate: false 
+xy: 400, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0 
+index: -1
+NationIcons/The Crystal Empire
+rotate: false 
+xy: 500, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0 
+index: -1
+NationIcons/Olenia
+rotate: false 
+xy: 600, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0 
+index: -1
+NationIcons/Our Town
+rotate: false 
+xy: 700, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0 
+index: -1
+NationIcons/Polar Bear Communities
+rotate: false 
+xy: 800, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0 
+index: -1
+NationIcons/Aztlan
+rotate: false 
+xy: 900, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0 
+index: -1
+NationIcons/Nova Griffonia
+rotate: false 
+xy: 1000, 0
+size: 100, 100
+orig: 100, 100
+offset: 0, 0 
+index: -1
